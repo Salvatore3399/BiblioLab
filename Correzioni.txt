@@ -1,0 +1,2 @@
+1. Correzione del README.md alla linea 47, aggiunta del comando mancante: python manage.py makemigrations
+2. Correzione del Dockerfile alla linea 68 e aggiunta di \ in CMD
